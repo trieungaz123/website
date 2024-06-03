@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/website-n-t-t-nghi-p/', // Thay thế 'website-n-t-t-nghi-p' bằng tên repo của bạn
+  base: '/website/', // Cập nhật tên repo mới
   plugins: [react()],
   build: {
     outDir: 'build', // Đảm bảo rằng thư mục build là 'build'

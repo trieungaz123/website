@@ -11,9 +11,7 @@
     "deploy": "gh-pages -d build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
-  }
-  ,
-
+  },
   "dependencies": {
     "powerbi-client": "^2.23.1",
     "powerbi-client-react": "^1.4.0",
@@ -32,5 +30,4 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.2.0"
   }
-
 }
