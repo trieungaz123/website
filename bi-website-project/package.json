@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://trieungaz123.github.io/website-n-t-t-nghi-p/",
+  "homepage": "https://trieungaz123.github.io/bi",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
