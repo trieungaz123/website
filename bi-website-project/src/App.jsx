@@ -1,12 +1,12 @@
-import './App.css'
+import React from 'react';
 import PowerBIEmbedComponent from './components/PowerBiEmbedded';
-function App() {
 
+const App = () => {
   return (
-    <>
-    <PowerBIEmbedComponent />
-    </>
-  )
-}
+    <div>
+      <PowerBIEmbedComponent />
+    </div>
+  );
+};
 
-export default App
+export default App;
