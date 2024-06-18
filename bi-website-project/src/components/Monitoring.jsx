@@ -20,7 +20,7 @@ const Monitoring = ({ menuOpen }) => {
         title="Monitoring"
         width="100%"
         height="100%"
-        src="https://app.powerbi.com/view?r=eyJrIjoiZjVjOGMxZmItYzQ5ZC00ZjQyLWE2OGEtZDQwMjEwNGM4NTk4IiwidCI6IjRiNDdhNWNjLTc5YTktNDc4Yy1iMjQ5LWMwNDFkOWU4OTFmMSIsImMiOjN9"
+        src="https://app.powerbi.com/view?r=eyJrIjoiYTBmNjhkNjktOTRjZC00YTQ2LTg2MDEtZDE1NTY0OTZjYjZkIiwidCI6IjRiNDdhNWNjLTc5YTktNDc4Yy1iMjQ5LWMwNDFkOWU4OTFmMSIsImMiOjN9"
         frameBorder="0"
         allowFullScreen={true}
       ></iframe>
