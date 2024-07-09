@@ -68,7 +68,7 @@ const PowerBIEmbedComponent = () => {
               Monitoring
             </a>
             <a
-              href="https://docs.google.com/presentation/d/1-GYY9yk8-r3zXlQsZMn4NKWP3zEb7PyKaGTW2PHIHAw/edit#slide=id.g2bc2e4df31b_0_0"
+              href="https://drive.google.com/file/d/1yi3iePHb_4H4dtP0RI39KzP3myeztsBz/view"
               target="_blank"
               rel="noopener noreferrer"
               style={{ display: 'block', padding: '12px 16px', textDecoration: 'none', color: '#333' }}
