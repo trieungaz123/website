@@ -20,12 +20,12 @@ const Dashboard = ({ menuOpen }) => {
         title="Power BI Dashboard"
         width="100%"
         height="100%"
-        src="https://app.powerbi.com/reportEmbed?reportId=c82a3d0f-1d45-4be0-9595-58ec4ad436d0&autoAuth=true&ctid=4b47a5cc-79a9-478c-b249-c041d9e891f1"
+        src="https://app.powerbi.com/reportEmbed?reportId=3a9ee970-54d8-4a1b-9cc3-088c8d96b439&autoAuth=true&ctid=4b47a5cc-79a9-478c-b249-c041d9e891f1"
         frameBorder="0"
         allowFullScreen={true}
       ></iframe>
     </div>
   );
-}
+};
 
 export default Dashboard;
